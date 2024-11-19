@@ -1,0 +1,248 @@
+:root {
+  --dark-color1: #171717;
+  --dark-color2: #292738;
+  --dark-color3: #2b242b;
+  --dark-color4: #212529;
+}
+
+.bg-dark-1,
+body,
+.sticky-header.fixed-header,
+.page-wrapper,
+.header-style-one,
+.main-header .info-btn .icon,
+.service-block .image-box .icon,
+.about-section,
+.call-to-action .bg-image:before,
+.channel-block .inner-box,
+.pricing-section,
+.testimonial-block .content-box,
+.channels-section .content-column:before,
+.header-style-two .header-lower .logo-box,
+.movies-section-two .bg-image:before,
+.header-style-three .main-box,
+.header-style-four .main-box .logo-box,
+.categories-block .inner-box:after,
+.accordion-box .block,
+.channel-block-two .inner-box,
+.header-style-five,
+.service-block-four .inner-box .image::before,
+.feature-block-four .inner-box,
+.team-section,
+.pricing-block-two .content-box {
+  background-color: var(--dark-color1) !important;
+}
+
+.about-section-five .image-column .exp-box:before {
+  border-top-color: var(--dark-color1);
+}
+
+.bg-dark-light {
+  background-color: var(--dark-color1);
+  opacity: 0.9;
+}
+
+.bg-dark-2,
+.header-top .inner-container,
+.header-top,
+.main-header .info-btn,
+.feature-block .inner-box,
+.cta-box,
+.channels-section .bg-image:before,
+.about-section .image-column .exp-box,
+.services-section-two .outer-box:before,
+.pricing-block-two .inner-box {
+  background-color: var(--dark-color2) !important;
+}
+
+.pricing-block:nth-child(2) .image-box .speed:before {
+  border-top-color: var(--dark-color2);
+}
+
+.bg-dark-3,
+.testimonial-section-two .title-column .inner-column,
+.why-choose-us-four,
+.channels-section-two .content-column .inner-column {
+  background-color: var(--dark-color3) !important;
+}
+
+.bg-dark-4,
+.services-section-three .services-column .services-list li,
+.news-block .content-box,
+.pricing-block .content-box,
+.testimonial-block .info-box,
+.pricing-block:nth-child(2) .image-box .speed,
+.contact-info-block .inner .icon,
+.btn-style-one,
+.fun-fact-section .fact-counter,
+.movies-section-two .left-img,
+.feature-block-two .inner-box,
+.about-block-two .inner,
+.testimonial-section-two .testimonial-column .inner-column,
+.service-block-two .inner-box .image::before,
+.feature-block-three .content-box,
+.about-section-five .image-column .image-box .image::before,
+.call-to-action.alternate,
+.testimonial-section-three .outer-box,
+.categories-section-2 .outer-box,
+.faqs-section .outer-box,
+.channels-section-two .channels-column .inner-column,
+.team-block .info-box,
+.team-block .share-icon {
+  background-color: var(--dark-color4) !important;
+}
+
+.btn-style-three,
+.work-tabs .tab-buttons .tab-btn {
+  background-color: #000;
+}
+
+.process-block .inner-box::before,
+.service-block .inner-box {
+  border-color: var(--dark-color1);
+}
+
+.main-menu .navigation > li > a,
+.main-menu .navigation > li.current > a,
+.sticky-header .main-menu .navigation > li > a,
+.sticky-header .main-menu .navigation > li.current > a,
+.sticky-header .main-menu .navigation > li:hover > a,
+strong,
+.title a,
+.sec-title h2,
+.main-header .ui-btn,
+.about-section .content-column .sec-title .text,
+.about-section .content-column .text-box .info-box .txt,
+.pricing-block .content-box .title-box .title,
+.about-section-three .content-column .info-box .txt,
+.about-section-four .content-column .sec-title .text-strong,
+.about-block-two .inner .sub-title,
+.testimonial-block-two .rating-box .reason,
+.testimonial-block-two .info-box .name,
+.cta-box .info-box .text,
+.feature-block-three .content-box .price,
+.about-section-five .content-column .info-box .txt,
+.services-section-three .content-column .info-box .title,
+.pricing-block .price,
+.categories-block .title,
+.about-block-three .inner .title,
+.pricing-section.style-two .pricing-block .content-box .title-box .sub-title,
+.accordion-box .block .acc-btn,
+.accordion-box .block .acc-btn.active,
+.about-section-nine .content-column .text-box .info-box .txt,
+.team-block .info-box .name,
+.pricing-block-two .title-box .title,
+.pricing-block-two .content-box .price {
+  color: #fff;
+}
+
+.text-lights,
+.social-icon-one li a,
+.list-style-two li,
+.list-style-two li i,
+.main-header .info-btn small,
+.news-block .content-box .read-more i {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.bg-dark-text-light,
+.about-section .content-column .text-box .info-box,
+.feature-block .icon-box,
+.pricing-block .content-box .pricing-variation-icons i,
+.pricing-block .theme-btn,
+.testimonial-block-two .thumb-box .quote-icon,
+.accordion-box .block .acc-btn .icon,
+.about-section-nine .content-column .text-box .info-box,
+.video-section .video-column .video-box .play-btn,
+.pricing-block-two .title-box .icon {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+
+/*	Border Color */
+.border-color,
+.header-style-one .header-top .inner-container,
+.feature-block .inner-box,
+.news-block .content-box .read-more,
+.pricing-block .theme-btn,
+.header-style-two .header-top .inner-container,
+.about-section-three .image-column .image-box .image-2,
+.fun-fact-section .fact-counter,
+.feature-block-two .inner-box,
+.testimonial-block-two .inner-box:before,
+.testimonial-block-two .thumb-box .thumb,
+.services-section-two .outer-box:before,
+.accordion-box .block,
+.about-section-nine .content-column .text-box .info-box,
+.about-section-nine .image-column .image-box .image-2,
+.about-section-nine .image-column .exp-box,
+.feature-block-four .inner-box {
+  border-color: #2c2a2a !important;
+}
+
+.channels-section .content-column .inner-column:after {
+  border-left-color: #2c2a2a;
+}
+
+.pricing-block .image-box .speed:before {
+  border-top-color: #2c2a2a;
+}
+
+.service-block-two .inner-box .read-more:before,
+.service-block-two .inner-box .read-more:before {
+  border-bottom-color: #2c2a2a;
+}
+
+.bg-border-color {
+  background-color: #2c2a2a;
+}
+
+.service-block-two .inner-box .read-more {
+  color: var(--theme-color1);
+}
+
+.header-style-two .feature-block .inner-box:before,
+.services-section-two .dotted-map,
+.bg-pattern-6,
+.bg-pattern-7 {
+  background-image: unset;
+}
+
+.bg-pattern-1 {
+  background-image: url(../images/icons/pattern-1-dark.html);
+}
+
+.gradient-circle {
+  background-image: url(../images/icons/gradient-circle-dark.png);
+}
+
+.bg-pattern-5 {
+  background-image: url(../images/icons/pattern-5-dark.jpg);
+}
+
+.pricing-block-two .title-box {
+  background-image: url(../images/icons/pricing-dark.jpg);
+}
+
+.counter-block .count-box .count-text,
+.counter-block .count-box,
+.counter-block-two .count-box,
+.counter-block-two .count-box .count-text {
+  -webkit-text-stroke-color: #fff;
+}
+
+.clients-carousel .slide-item img {
+  -webkit-filter: invert(1);
+          filter: invert(1);
+}
+
+.clients-section .slide-item a:hover {
+  background-color: inherit;
+}
+
+.contact-form .form-group textarea {
+  background-color: #0a090f;
+}
+.contact-form .form-group input:not([type=submit]) {
+  background-color: #0a090f;
+}
